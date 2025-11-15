@@ -16,7 +16,6 @@ export const metadata = {
   title: "Cashflow App",
   description: "Aplikasi cashflow",
   manifest: "/manifest.json",
-  themeColor: "#0d6efd"
 };
 
 export default function RootLayout({ children }) {
